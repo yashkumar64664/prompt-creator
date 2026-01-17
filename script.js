@@ -1,4 +1,4 @@
-const API_URL = " https://prompt-creator-2.onrender.com";
+const API_URL = "https://prompt-creator-2.onrender.com/api/generate";
 
 document.getElementById("promptForm").addEventListener("submit", async function (e) {
   e.preventDefault();
